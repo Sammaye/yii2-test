@@ -3,7 +3,7 @@ namespace common\models;
 
 use Yii;
 use yii\base\NotSupportedException;
-use yii\mongodb\ActiveRecord;
+use yii\db\ActiveRecord;
 use yii\base\Security;
 use yii\web\IdentityInterface;
 
